@@ -1,4 +1,4 @@
-let num = 18;
+/*let num = 18;
 console.log(num);
 let age = +prompt("What is your age?");
 
@@ -16,12 +16,12 @@ if (num === age) {
   }
 }
 
-console.log("Game over");
+console.log("Game over");*/
 
 
 
 
-/*let age = prompt("Ваш возраст?");
+let age = prompt("Ваш возраст?");
 let exp = prompt("Ваш опыт работы?");
 let salary = prompt("Желаемый уровень з/пл (грн)?");
 let schedule = prompt("Желаемый график работы (кол-во дней в неделю)?");
@@ -42,5 +42,5 @@ if (age < 30) {
       }
     }
   }
-}*/
+}
 
